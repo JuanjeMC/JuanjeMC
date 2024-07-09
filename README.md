@@ -36,8 +36,4 @@ My interests extend to nearly everything that involves science and art. I enjoy 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 GitHub Insights
-[![JuanjeMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanjeMC&show_icons=true&theme=radical)](https://github.com/JuanjeMC)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjeMC&layout=compact&theme=radical)](https://github.com/JuanjeMC)
-
 [![JuanjeMC's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuanjeMC&theme=radical)](https://github.com/JuanjeMC)
